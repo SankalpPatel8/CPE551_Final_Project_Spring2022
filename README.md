@@ -9,5 +9,5 @@ Groupmates worked with: Shiddharath Patel and Hardik Veguru
 [Final Video](https://www.youtube.com/watch?v=BI2hOSQGou4)
 
 ### Other links used:
-[BasketballReference](https://www.basketball-reference.com/)\
+[Basketball Reference](https://www.basketball-reference.com/)\
 [Youtube Tutorial](https://www.youtube.com/watch?v=JGQGd-oa0l4)
